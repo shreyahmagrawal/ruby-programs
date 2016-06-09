@@ -1,0 +1,4 @@
+srand 1994
+puts(rand(100))
+puts(rand(100))
+puts (rand (200))
